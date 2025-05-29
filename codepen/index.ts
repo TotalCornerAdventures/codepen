@@ -7,4 +7,4 @@ function add(a: number, b: number): number {
 const result = add(2, 3);
 console.log("The sum is:", result);
 
-add(5, 7);
+add(6, 7);
