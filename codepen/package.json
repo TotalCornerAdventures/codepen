@@ -1,0 +1,22 @@
+{
+  "name": "codepen",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/TotalCornerAdventures/codepen#readme",
+  "bugs": {
+    "url": "https://github.com/TotalCornerAdventures/codepen/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TotalCornerAdventures/codepen.git"
+  },
+  "license": "ISC",
+  "author": "CMP",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.ts",
+    "dev": "nodemon index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
